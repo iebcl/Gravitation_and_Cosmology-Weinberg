@@ -1,1 +1,1 @@
-# Gravitation_and_Cosmology-Weinberg
+# Notes of Gravitation and Cosmology by Weinberg
